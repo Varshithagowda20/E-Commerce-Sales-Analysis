@@ -52,6 +52,20 @@ I completed this project to practice the end-to-end data analysis process using 
 - Data Visualization
 - Dashboard Development
 - Business Analysis
+---
+
+# 📸 Dashboard Preview
+
+## 📊 Excel Dashboard
+
+![Excel Dashboard](Excel_Dashboard.png)
+
+---
+
+## 📈 Power BI Dashboard
+
+![Power BI Dashboard](PowerBI_Dashboard.png)
+
 
 ## Author
 
