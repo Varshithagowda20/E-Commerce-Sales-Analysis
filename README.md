@@ -54,6 +54,13 @@ I completed this project to practice the end-to-end data analysis process using 
 - Business Analysis
 ---
 
+## Author
+
+**Varshitha H V**
+
+Information Science Engineering Graduate | Aspiring Data Analyst
+---
+
 # 📸 Dashboard Preview
 
 ## 📊 Excel Dashboard
@@ -65,10 +72,3 @@ I completed this project to practice the end-to-end data analysis process using 
 ## 📈 Power BI Dashboard
 
 ![Power BI Dashboard](PowerBI_Dashboard.png)
-
-
-## Author
-
-**Varshitha H V**
-
-Information Science Engineering Graduate | Aspiring Data Analyst
